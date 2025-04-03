@@ -1,2 +1,3 @@
 remote change 1 2
 This is remote change
+This is local change
