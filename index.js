@@ -5,7 +5,7 @@ const app = express();
 app.get('/', (req, res) => {
     res.send('Hello World từ Expresse!d');
 });
-console.log('main')
+console.log('main 2')
 
 console.log("Hello World từ Express!");
 
