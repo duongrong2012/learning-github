@@ -3,7 +3,7 @@ const app = express();
 
 // Định nghĩa một route cơ bản
 app.get('/', (req, res) => {
-    res.send('Hello World từ Expresse!');
+    res.send('Hello World từ Expresse!d');
 });
 console.log("Hello World từ Express!");
 
