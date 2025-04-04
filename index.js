@@ -5,6 +5,7 @@ const app = express();
 app.get('/', (req, res) => {
     res.send('Hello World từ Express!');
 });
+console.log('main')
 
 // Lắng nghe trên cổng 3000
 const PORT = 3000;
